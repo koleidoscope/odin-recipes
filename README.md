@@ -1,1 +1,1 @@
-This is a readme for my first project. It is going to be a recipe website. I will demonstrate my ability to write text, use links, and incorporate images in HTML.
+This is a readme for my first project. It is going to be a recipe website. I will demonstrate my ability to write text, use links, and incorporate images in HTML. Let's see how it goes.
